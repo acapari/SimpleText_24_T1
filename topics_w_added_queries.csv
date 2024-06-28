@@ -1,0 +1,177 @@
+topic_id,query_id,new_query,new_topic
+G01,G01.1,Gender biases in digital assistants,Gender biases in digital assistants
+G01,G01.2,Gender biases in digital assistants,Gender biases in digital assistants
+G01,G01.C1,impact of AI virtual assistants on gender stereotypes,Gender biases in digital assistants
+G01,G01.C2,gender representation in digital assistants,Gender biases in digital assistants
+G01,G01.C3,language models gender biases digital assistants responses,Gender biases in digital assistants
+G02,G02.1,Apple Siri recordings confidential information,Apple Siri privacy concerns
+G02,G02.2,Apple Siri privacy concerns,Apple Siri privacy concerns
+G02,G02.C1,handling of sensitive information by voice assistants Apple Siri privacy concerns,Apple Siri privacy concerns
+G02,G02.C2,ethical considerations in AI systems personal data privacy Apple Siri recordings,Apple Siri privacy concerns
+G02,G02.C3,technology behind voice assistants speech processing,Apple Siri privacy concerns
+G03,G03.1,children smart speaker adoption trends,impact of voice assistants on children development
+G03,G03.2,children surveillance voice assistants,impact of voice assistants on children development
+G03,G03.C1,children interaction with voice assistants design child-friendly interfaces,impact of voice assistants on children development
+G03,G03.C2,privacy and safety concerns children voice assistants connected devices,impact of voice assistants on children development
+G03,G03.C3,impact of voice assistants on family life and child development,impact of voice assistants on children development
+G04,G04.1,AI impact on drug discovery,AI impact on pharmaceutical industry drug discovery
+G04,G04.2,functional genomics drug discovery AI,AI impact on pharmaceutical industry drug discovery
+G04,G04.3,AI applications in drug discovery for infectious diseases,AI impact on pharmaceutical industry drug discovery
+G04,G04.C1,AI impact on pharmaceutical research success rates,AI impact on pharmaceutical industry drug discovery
+G04,G04.C2,machine learning models disease patterns treatment outcomes,AI impact on pharmaceutical industry drug discovery
+G04,G04.C3,role of data mining techniques in drug development,AI impact on pharmaceutical industry drug discovery
+G05,G05.1,Crispr gene editing clinical trials progress,Crispr gene-editing therapies applications and advancements
+G05,G05.2,Crispr gene-editing therapies clinical trials,Crispr gene-editing therapies applications and advancements
+G05,G05.C1,machine learning algorithms application in Crispr gene-editing,Crispr gene-editing therapies applications
+G05,G05.C2,"tools for mapping genomic edits, visualizing gene expression patterns, and understanding spatial and functional relationships between genomic elements Crispr",Crispr gene-editing therapies advancements
+G06,G06.1,ubiquity artificial intelligence regulation,Elon Musk AI regulation existential threat
+G06,G06.2,self-driving cars regulation AI,Elon Musk AI regulation existential threat
+G06,G06.C1,ethical considerations governance frameworks policies responsible development deployment AI technologies,Elon Musk AI regulation existential threat
+G06,G06.C2,strategies to ensure safe and secure AI systems without unintended harmful consequences,Regulate artificial intelligence existential threat Elon Musk
+G06,G06.C3,regulation of artificial intelligence compliance standards,Elon Musk AI regulation existential threat
+G07,G07.1,Facebook misinformation news ban,Facebook news ban impact on Australia
+G07,G07.2,Facebook conspiracy theories misinformation,Facebook news ban impact on Australia
+G07,G07.C1,NLP techniques for detecting misinformation on social media,Facebook news ban impact on Australia
+G07,G07.C2,impact of misinformation on social networks,Facebook news ban impact on Australian non-media organizations
+G08,G08.1,Bitcoin market value surge reasons,Bitcoin market value surge reasons
+G08,G08.2,Bitcoin market capitalization growth factors,Bitcoin market value increase reasons
+G08,G08.C1,cryptographic underpinnings of blockchain technology Bitcoin,Bitcoin market value increase reasons
+G08,G08.C2,consensus mechanisms Proof of Work cryptocurrencies decentralized operation,Bitcoin market value increase reasons
+G08,G08.C3,computational techniques analysis cryptocurrency markets,Bitcoin market value increase reasons
+G09,G09.1,Forensic Architecture investigation,Forensic Architecture investigations human rights crimes
+G09,G09.C1,Spatial data analysis techniques for crime scene reconstruction,Forensic Architecture investigations human rights cases
+G09,G09.C2,3D modeling advanced data visualization techniques events evidence reconstruction,Forensic Architecture investigations human rights cases
+G09,G09.C3,machine learning algorithms application large dataset forensic investigation,Forensic Architecture investigations human rights cases
+G10,G10.1,impact of humanoid robots on job losses,impact of automation on job losses during pandemic
+G10,G10.2,automation impact on job losses pandemic,impact of automation on job losses during pandemic
+G10,G10.C1,impact of robotic technologies on job losses during pandemic,impact of automation on job losses during pandemic
+G10,G10.C2,"economic implications of increased automation and AI in the workforce, job displacement creation",impact of automation on job losses during pandemic
+G10,G10.C3,impact of automation on the workforce during the pandemic,impact of automation on job losses during pandemic
+G11,G11.1,armed drone technology impact in military conflicts,UK response to Azerbaijan drones Nagorno-Karabakh conflict
+G11,G11.C1,development and automation of drones in military technology,impact of drones in military conflicts
+G11,G11.C2,"AI application in drones for decision-making, surveillance, and combat",impact of drones in military conflicts
+G11,G11.C3,secure communication drones control stations,impact of drones in military conflicts
+G12,G12.1,sale of patient data to US pharmaceutical companies,Sale of NHS patient data to US pharmaceutical companies
+G12,G12.C1,ethics of selling health data for commercial use,Sale of NHS patient data to US pharmaceutical companies
+G12,G12.C2,technologies for securing health data privacy,Sale of NHS patient data to US pharmaceutical companies
+G12,G12.C3,laws and regulations governing cross-border health data transfer and usage,Sale of NHS patient data to US pharmaceutical companies
+G12,G12.C4,pharmaceutical companies use of patient data analysis techniques,Sale of NHS patient data to US pharmaceutical companies
+G13,G13.1,types of digital marketing strategies,Understanding digital marketing strategies
+G13,G13.2,digital marketing advertising strategies,Understanding digital marketing strategies
+G13,G13.C1,SEO techniques and strategies for website visibility improvement,Understanding digital marketing strategies
+G13,G13.C2,Pay-Per-Click Advertising benefits and strategies,Understanding digital marketing strategies and tools
+G13,G13.C3,Social Media Marketing strategies for brand building and audience engagement,Understanding digital marketing strategies and tools
+G13,G13.C4,Content Marketing strategies in digital marketing,Understanding digital marketing strategies
+G13,G13.C5,Email marketing segmentation best practices,Understanding digital marketing strategies and tools
+G14,G14.1,importance of end-to-end encryption for children online safety,impact of end-to-end encryption on child safety
+G14,G14.2,end-to-end encryption benefits children online safety,impact of end-to-end encryption on child safety
+G14,G14.C1,importance of end-to-end encryption in protecting children online,impact of end-to-end encryption on child safety
+G14,G14.C2,strategies to protect children online with end-to-end encryption,impact of end-to-end encryption on child safety
+G14,G14.C3,impact of end-to-end encryption on data protection and privacy regulations,impact of end-to-end encryption on child safety
+G14,G14.C4,Ethical considerations of end-to-end encryption for child safety and law enforcement access,impact of end-to-end encryption on child safety
+G15,G15.1,Edward Snowden revelations impact on data protection agreements,UK data laws post-Brexit
+G15,G15.2,cookie banners GDPR regulation,UK data laws post-Brexit
+G15,G15.3,GDPR impact on UK data laws,UK data laws post-Brexit
+G15,G15.4,ePrivacy directive impact on UK data laws,UK data laws post-Brexit
+G15,G15.C1,impact of GDPR on technology and business practices,UK data laws post-Brexit
+G15,G15.C2,impact of data protection legislation on data-driven business models and technological innovation,UK data laws post-Brexit
+G15,G15.C3,legal implications of cross-border data transfer under different frameworks,UK data laws post-Brexit
+G15,G15.C4,ethical implications of data legislation user rights corporate responsibilities,UK data laws post-Brexit
+G16,G16.1,natural language processing algorithms,natural language processing algorithms applications
+G16,G16.2,natural language processing applications,natural language processing algorithms applications
+G16,G16.3,algorithmic accountability,natural language processing algorithms applications
+G16,G16.4,OpenNLP natural language processing Apache Foundation,natural language processing algorithms applications
+G16,G16.C1,moral implications human-like nature algorithms,applications of natural language processing in media and artificial intelligence
+G16,G16.C2,designing algorithms with human interaction in mind,natural language processing algorithms applications
+G17,G17.1,quantum computing explained,quantum computing applications and advancements
+G17,G17.2,quantum computing qubit explanation,quantum computing applications and advancements
+G17,G17.3,Jay Gambetta quantum computing IBM,quantum computing applications and advancements
+G17,G17.4,quantum computing applications,quantum computing applications and advancements
+G17,G17.C1,Government interest in quantum computing economic benefits,quantum computing applications and advancements
+G17,G17.C2,Challenges and Limitations of Quantum Computing,quantum computing applications and advancements
+G18,G18.1,crowdsourced recruitment tool for diversity in tech,tools for improving diversity in tech recruitment
+G18,G18.2,crowdsourced recruitment tool for diversity in tech,tools for improving diversity in tech recruitment
+G18,G18.3,crowdsourced recruitment tool for tech job search,tools for improving diversity in tech recruitment
+G18,G18.4,women in tech recruitment tool,tools for improving diversity in tech recruitment
+G18,G18.C1,gender diversity recruitment tool tech industry,tools for improving diversity in tech recruitment
+G18,G18.C2,Innovative crowdsourced recruitment tools for diversity and inclusion in tech,tools for improving diversity in tech recruitment
+G18,G18.C3,Successful diversity initiatives in tech companies,tools for improving diversity in tech recruitment
+G18,G18.C4,impact of diversity on team performance and innovation in tech industry,tools for improving diversity in tech recruitment
+G19,G19.1,International Space Station Linux security virus,International Space Station malware attack
+G19,G19.2,Kaspersky Linux International Space Station virus epidemic,International Space Station malware attack
+G19,G19.3,malicious USB storage device malware space station,International Space Station malware attack
+G19,G19.C1,malware incidents in unconventional computing environments,International Space Station malware attack
+G19,G19.C2,strategies technologies protecting space computer systems cyber threats,International Space Station malware attack
+G19,G19.C3,Impact of malware infections on space missions safety,International Space Station malware attack
+G20,G20.1,risks of open data initiative,risks and benefits of open data initiative
+G20,G20.2,open data impact of policies risks,risks and benefits of open data initiative
+G20,G20.C1,implementation strategies of open data initiatives by governments,Government open data risks and benefits
+G20,G20.C2,Data privacy and security risks in open data initiative,risks and benefits of open data initiative
+G20,G20.C3,"potential for innovation and development through reuse of open data in public services, research, and technology",risks and benefits of open data initiative
+T01,T01.1,CurveLight indoor positioning system,CurveLight indoor positioning system performance
+T01,T01.2,light positioning system efficiency,CurveLight indoor positioning system performance
+T01,T01.3,LED lamp indoor positioning system,CurveLight indoor positioning system performance
+T02,T02.1,RISC-V architecture for spacecraft applications,RISC-V architecture space computing
+T02,T02.2,RISC-V architecture space computing,RISC-V architecture space computing
+T02,T02.3,RISC-V architecture modularity benefits,RISC-V architecture space computing
+T03,T03.1,RoboTurk imitation learning robotics,Imitation learning in robotics crowdsourcing platform
+T03,T03.2,RoboTurk crowdsourcing platform robotics imitation learning,Imitation learning in robotics crowdsourcing platform
+T03,T03.3,RoboTurk imitation learning robotics,Imitation learning in robotics crowdsourcing platform
+T04,T04.1,neural network parking car,neural network simulation for complex tasks
+T04,T04.2,Recurrent Neural Networks (RNN) time-varying dynamics,neural network simulation for complex tasks
+T04,T04.3,nematode neural network parking car,neural network simulation for complex tasks
+T04,T04.4,small neural network parking car,neural network simulation for complex tasks
+T05,T05.1,emotional intelligence robots empathy,robots emotional intelligence empathy
+T05,T05.2,emotional intelligence robots,robots emotional intelligence empathy humanlike
+T05,T05.3,emotion synthesis in robots,robots emotional intelligence empathy humanlike technology
+T05,T05.4,robot empathy technology,robots emotional intelligence empathy
+T06,T06.1,AI system-on-chip power efficiency signal processing,AI system-on-chip solar power applications
+T06,T06.2,AI system-on-chip energy efficiency,AI system-on-chip signal processing architecture solar power
+T06,T06.3,neural network accelerator energy efficient face detection voice recognition,AI system-on-chip signal processing architecture
+T07,T07.1,transfer learning machine learning error estimation,transfer learning machine learning error estimation
+T07,T07.2,Bayesian approach transfer learning machine learning error estimation,Transfer learning machine learning error estimation
+T07,T07.3,transfer learning classification machine learning,Transfer learning machine learning error estimation
+T07,T07.4,error estimator transfer learning machine learning,Transfer learning machine learning error estimation
+T08,T08.1,3G network shutdown reasons,3G network shutdown explanation
+T08,T08.2,CDMA technology explanation in wireless communications,3G network shutdown explanation
+T08,T08.3,Orthogonal Frequency Division Multiple Access (OFDMA),3G network shutdown explanation
+T09,T09.1,AI application for filling missing text in ancient artifacts,AI application for filling missing gaps in ancient texts
+T09,T09.2,AI application text reconstruction ancient texts,AI application for filling missing gaps in ancient texts
+T09,T09.3,AI text classification ancient texts,AI application for filling missing gaps in ancient texts
+T10,T10.1,optoelectronic sensor visual adaptation,Retina-inspired sensor visual adaptation technology
+T10,T10.2,retina-inspired sensor visual adaptation,Retina-inspired sensor visual adaptation technology
+T10,T10.3,phototransistor visual adaptation,Retina-inspired sensor visual adaptation machine perception
+T10,T10.4,phototransistor-type vision sensor ultrathin semiconductor scotopic photopic adaptation gate voltages,Retina-inspired sensor visual adaptation
+T11,T11.1,character relationships in 'The Witcher' network map,Character relationships analysis in The Witcher series
+T11,T11.2,The Witcher storyline visualization network map,Character relationships analysis in The Witcher series
+T11,T11.3,The Witcher social map network science,Character relationships analysis in fantasy novels
+T12,T12.1,deep learning COVID-19 detection smartwatch sensors,AI COVID-19 detection smartwatch sensors
+T12,T12.2,smartwatch COVID-19 detection,AI COVID-19 detection smartwatch sensors
+T12,T12.3,AI diagnosis COVID-19 smartwatch sensors,AI COVID-19 detection smartwatch sensors
+T12,T12.4,AI healthcare smartwatch sensors COVID-19 detection,AI COVID-19 detection smartwatch sensors
+T13,T13.1,injecting fairness into machine-learning models,Injecting fairness into machine-learning models
+T13,T13.2,injecting fairness into machine-learning models bias,injecting fairness into machine learning models
+T13,T13.3,fixing bias in machine learning models trained on imbalanced data,Injecting fairness into machine-learning models
+T13,T13.4,injecting fairness into machine-learning models sensitive attribute,Injecting fairness into machine learning models
+T14,T14.1,Underwater WiFi LED laser communication,Underwater wireless communication using LEDs and lasers
+T14,T14.2,underwater wireless communication using LEDs and lasers,Underwater wireless communication using LEDs and lasers
+T14,T14.3,underwater light beam communication,Underwater wireless communication using LEDs and lasers
+T15,T15.1,cybersecurity side-channel attack vibrations,side-channel attack vibrations data exfiltration cyber security
+T15,T15.2,side-channel attack vibrations data exfiltration,side-channel attacks data exfiltration vibrations
+T15,T15.3,accelerometer data transmission cyberattack,side-channel attack data exfiltration vibrations fan cybersecurity
+T16,T16.1,Distributed Guessing Attack credit card fraud,methods to protect against credit card hacking
+T16,T16.2,Distributed Guessing Attack Visa card security,how to protect credit card from hacking
+T16,T16.3,Distributed Guessing Attack Visa card security,credit card security vulnerabilities
+T17,T17.1,Intel chipset security flaw fix,Intel chipset security flaw bypass encryption
+T17,T17.2,OTP memory vulnerability Intel chipset,Intel chipset security flaw bypass encryption
+T17,T17.3,Intel chipset vulnerability bypass encryption,Intel chipset security flaw bypass encryption
+T17,T17.4,Intel chipset key generation vulnerability,Intel chipset security flaw bypass encryption
+T18,T18.1,backscatter communication breakthrough 5G data transfer single transistor,Backscatter breakthrough 5G IoT communication
+T18,T18.2,low power IoT backscatter radios 5G,Backscatter breakthrough for near-zero-power IoT 5G communication
+T18,T18.3,passive device backscatter communication technology 5G,Backscatter breakthrough for near-zero-power IoT 5G communication
+T18,T18.4,mmWave backscatter communication breakthrough,Backscatter breakthrough for near-zero-power IoT 5G communication
+T19,T19.1,genetic algorithm traffic optimization urban environments traffic control signal timing road accidents traffic incident traffic signal control plan traffic signal timings traffic management,genetic algorithm traffic control optimization
+T19,T19.2,genetic algorithm traffic control optimization urban environments,genetic algorithm traffic control optimization
+T19,T19.3,genetic algorithm traffic accident optimization,genetic algorithm traffic control optimization
+T20,T20.1,design user-friendly GUI artificial intelligence,AI system for GUI design recommendations
+T20,T20.2,deep learning artificial intelligence graphical user interface design,AI system for GUI design recommendations
